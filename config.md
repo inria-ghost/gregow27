@@ -16,7 +16,7 @@ ignore = ["node_modules/", "CLAUDE.md", "README.md"]
 generate_rss = false
 website_title = "Grenoble Global Optimization Workshop 2027"
 website_descr = "Global Optimization Workshop, Grenoble, 7-10 September 2027"
-website_url   = "https://example.com/"
+website_url   = "https://inria-ghost.github.io/gregow27/"
 +++
 
 <!--
