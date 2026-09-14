@@ -38,6 +38,8 @@ jobs:
             Pkg.activate("."); Pkg.instantiate();
             optimize()'
     - name: Build and Deploy
+      permissions:
+        contents: write
       uses: JamesIves/github-pages-deploy-action@releases/v4
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
