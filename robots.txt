@@ -1,4 +1,4 @@
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://inria-ghost.github.io/gregow27/sitemap.xml
 
 User-agent: *
 Disallow:
