@@ -7,7 +7,7 @@ mintoclevel = 2
 
 # Base URL: adjust when the final deployment location is known.
 # See https://franklinjl.org/workflow/deploy/#deploying_your_website
-# prepath = "yourproject"
+prepath = "gregow27"
 
 # Files or directories ignored by Franklin.
 ignore = ["node_modules/", "CLAUDE.md", "README.md"]
