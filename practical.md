@@ -25,4 +25,4 @@ choice of international restaurants, cafés, and bars.
 * The Musée de Grenoble is a major art museum with modern and contemporary collections, while the Musée Dauphinois offers an overview of the region's history.
 * Walk or cycle along the Isère and Drac rivers.
 * Explore the nearby mountain ranges for hikes, via ferratas, or bike trips.
-* The former Chartreuse distillery is in Voiron (accessible by train or buses from Grenoble) and offers visits in French and Grenoble.
+* The former Chartreuse distillery is in Voiron (accessible by train or buses from Grenoble) and offers visits in French and English.
