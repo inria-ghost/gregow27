@@ -1,10 +1,14 @@
 +++
-title = "Schedule"
+title = "Program"
 +++
 
-# Schedule
+# Program
 
 \toc
+
+## Plenary speakers
+
+To be announced.
 
 ## Overview
 
@@ -14,14 +18,10 @@ a **summer school on Monday 6 September 2027**.
 | Day | Date | Content |
 | --- | ---- | ------- |
 | Monday | 6 September 2027 | Summer school on open-source software for global optimization |
-| Tuesday | 7 September 2027 | Workshop sessions, opening, welcome reception |
+| Tuesday | 7 September 2027 | Opening, workshop sessions |
 | Wednesday | 8 September 2027 | Workshop sessions |
 | Thursday | 9 September 2027 | Workshop sessions, social dinner |
 | Friday | 10 September 2027 | Workshop sessions, closing |
-
-## Plenary speakers
-
-To be announced.
 
 ## Summer school program
 
