@@ -8,7 +8,9 @@ title = "Program"
 
 ## Plenary speakers
 
-To be announced.
+**[Claudia d'Ambrosio](https://www.lix.polytechnique.fr/Labo/Claudia.D'Ambrosio/)** -- CNRS, LIX, École Polytechnique, France
+
+**[Santanu S. Dey](https://www2.isye.gatech.edu/~sdey30/)** -- School of Industrial and Systems Engineering, Georgia Institute of Technology. 
 
 ## Overview
 
